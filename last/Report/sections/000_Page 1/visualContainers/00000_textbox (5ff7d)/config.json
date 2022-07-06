@@ -1,0 +1,36 @@
+{
+  "name": "5ff7d95cacd33151480e",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 9.7078651685393247,
+        "y": 0,
+        "z": 0,
+        "width": 279.91011235955057,
+        "height": 229.75280898876403
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "textbox",
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Hey"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
