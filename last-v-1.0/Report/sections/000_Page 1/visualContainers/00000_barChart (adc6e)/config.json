@@ -1,0 +1,19 @@
+{
+  "name": "adc6e5ac9ec8910d3b5b",
+  "layouts": [
+    {
+      "id": 0,
+      "position": {
+        "x": 383.46067415730334,
+        "y": 0,
+        "z": 1,
+        "width": 279.91011235955057,
+        "height": 229.75280898876403
+      }
+    }
+  ],
+  "singleVisual": {
+    "visualType": "barChart",
+    "drillFilterOtherVisuals": true
+  }
+}
